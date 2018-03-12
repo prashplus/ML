@@ -58,5 +58,5 @@ Run the following lines in python
 ## Authors
 
 * **Prashant Piprotar** - - [PrashPlus](https://github.com/prashplus)
-or visit my blog for more Tech Stuff
-#http://www.prashplus.com
+and visit my blog for more Tech Stuff
+## http://www.prashplus.com
