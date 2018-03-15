@@ -19,7 +19,7 @@ regression = regression(output_layer, optimizer = 'sgd', loss = 'binary_crossent
 model = DNN(regression)
 
 # And finally Training of the model
-model.fit(X,Y, n_epoch=5000,show_metric=True)
+model.fit(X,Y, n_epoch=10000,show_metric=True)
 
 # Model Insights
 print(model.get_weights(hidden_layer.W), model.get_weights(hidden_layer.b))
@@ -33,6 +33,6 @@ print ('Predicted: ', [i[0] > 0 for i in model.predict(X)])
 #model.save('xor_trained_model.tflearn')
 
 #Visualization
-model = DNN(regression, tensorboard_verbose=3)
+#model = DNN(regression, tensorboard_verbose=3)
 
 # $ tensorboard --logdir '\tmp\tflearn_logs'
