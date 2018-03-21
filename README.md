@@ -1,6 +1,6 @@
 # Machine Learning
 
-All the sample Machine Learning required during the learning phase
+All the sample Machine Learning codes required during the learning phase
 
 ## Getting Started
 
