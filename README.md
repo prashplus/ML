@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning [![License][license-img]][license-url] [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
 
 All the sample Machine Learning codes required during the learning phase
 
