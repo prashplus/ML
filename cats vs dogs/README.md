@@ -1,6 +1,6 @@
 # Cats VS Dogs
 
-This part of the ML repository has been moved to [Cats VS Dogs](http://github.com/Cats-VS-Dogs)
+This part of the ML repository has been moved to [Cats VS Dogs](http://github.com/Cats-vs-Dogs)
 T
 
 ## Authors
