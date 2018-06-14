@@ -12,7 +12,7 @@ Look out for the prerequisites dependencies in the import section or will be men
 
 
 
-### Setup
+## Setup
 
 Setup your Tensorflow or Tensorflow-GPU as the way you want.
 Follow the instructions on the official site of tensorflow at: https://www.tensorflow.org/install/
@@ -38,9 +38,9 @@ or
 (tensorflow)C:> pip install --ignore-installed --upgrade tensorflow-gpu
 ```
 
-## Setting up the GPU Environment (Nvidia GPUs only)
+### Setting up the GPU Environment (Nvidia GPUs only)
 
-Nvidia has put tremendous efforts to lower down the efforts of the developers like us by making CUDA toolkit and the libraries which works with their CUDA cores. Belive me an average GPU runs 15-25 times faster in training Neural Networks compare to a CPU.
+Nvidia has put tremendous efforts to lower down the efforts of the developers like us by making CUDA toolkit and the libraries which works with their CUDA cores. Belive me, an average GPU runs 15-25 times faster in training Neural Networks comparing to a CPU.
 
 If you are installing TensorFlow with GPU support using one of the mechanisms described in this guide, then the following NVIDIA software must be installed on your system:
 
