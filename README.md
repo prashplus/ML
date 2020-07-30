@@ -1,4 +1,7 @@
 # Machine Learning
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
+
 
 All the sample Machine Learning codes required during the learning phase
 
